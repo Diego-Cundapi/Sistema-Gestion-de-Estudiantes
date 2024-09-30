@@ -1,5 +1,5 @@
 # Sistema de Gestión de Alumnos
-Este proyecto implementa un sistema de gestión de estudiantes para una escuela, diseñado para almacenar y procesar información de varios estudiantes, incluyendo sus nombres, materias y calificaciones.
+Este proyecto implementa un sistema de gestión de estudiantes para una escuela, diseñado para almacenar y procesar información de varios estudiantes ***haciendo uso del paradigma funcional***, incluyendo sus nombres, materias y calificaciones.
 Características principales
 
 ## Estructura de datos: Utiliza un diccionario anidado donde:
